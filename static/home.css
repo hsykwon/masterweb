@@ -18,7 +18,8 @@ body, html {
   height: 100vh;
 }
 .parallax .bg__foo {
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/30354/parallax1.jpg);
+  background-image: url(nature1.jpg);
+  background-position: center;
 }
 .parallax .bg__bar {
   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/30354/parallax2.jpg);
